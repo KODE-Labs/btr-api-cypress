@@ -1,0 +1,6 @@
+/node_modules/
+.idea/.gitignore
+.idea/modules.xml
+cypress/videos
+cypress/screenshots
+package-lock.json

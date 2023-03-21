@@ -1,0 +1,26 @@
+{
+  "name": "btr-api-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KODE-Labs/btr-api-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KODE-Labs/btr-api-cypress/issues"
+  },
+  "homepage": "https://github.com/KODE-Labs/btr-api-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.0"
+  }
+}
